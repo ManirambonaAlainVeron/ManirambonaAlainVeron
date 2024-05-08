@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **software architecture**
 
-- 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, TypeScript, Testing,System performance optimization ....**
+- 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, TypeScript, Testing, System Performance Optimization, ....**
 
 - 📫 How to reach me **avmanirambona@gmail.com**
 
