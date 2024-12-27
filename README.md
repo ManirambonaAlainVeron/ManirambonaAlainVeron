@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avmanirambona@gmail.com**
 
-🔹I am highly skilled in Java and its ecosystem, including J2EE, Spring, JavaFX, etc . I enjoy building robust, scalable, and high-performance applications that solve real-world problems.
+<p>🔹I am highly skilled in Java and its ecosystem, including J2EE, Spring, JavaFX, etc . I enjoy building robust, scalable, and high-performance applications that solve real-world problems.</p>
 🔹With a strong foundation in OOP principles, I design and develop maintainable, modular, and reusable code. I am passionate about creating software that is not only functional but also clean and efficient.
 🔹I have extensive experience working with Spring Boot,Spring Security, and Spring Data to build enterprise-grade applications. I am especially passionate about developing microservices and RESTful APIs.
 🔹I am comfortable working with both relational (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis) databases. I also have hands-on experience with ORM frameworks like Hibernate and JPA, enabling me to manage data effectively and efficiently.
