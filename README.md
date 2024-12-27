@@ -13,6 +13,20 @@
 
 - 📫 How to reach me **avmanirambona@gmail.com**
 
+🔹I am highly skilled in Java and its ecosystem, including J2EE, Spring, JavaFX, etc . I enjoy building robust, scalable, and high-performance applications that solve real-world problems.
+🔹With a strong foundation in OOP principles, I design and develop maintainable, modular, and reusable code. I am passionate about creating software that is not only functional but also clean and efficient.
+🔹I have extensive experience working with Spring Boot,Spring Security, and Spring Data to build enterprise-grade applications. I am especially passionate about developing microservices and RESTful APIs.
+🔹I am comfortable working with both relational (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis) databases. I also have hands-on experience with ORM frameworks like Hibernate and JPA, enabling me to manage data effectively and efficiently.
+🔹I thrive in Agile environments, leveraging Scrum to deliver high-quality software. I enjoy working closely with cross-functional teams to iterate and improve solutions that align with business goals.
+🔹I’ve worked with cloud platforms AWS deploying Java applications using Docker and Kubernetes. I’m always looking for ways to optimize deployment pipelines and improve the scalability of the applications I build.
+🔹I am proficient in using Git, GitHub for version control and collaboration. I value clean versioning and smooth collaboration within development teams.
+🔹Unit Testing & TDD: Writing unit tests is a key part of my workflow. I use Junit and Mockito to ensure my code is well-tested and reliable.
+🔹I have experience working with front-end technologies like HTML, CSS, and JavaScript / TypeScript (Angular). This helps me build full-stack solutions and better integrate back-end services with user-facing features.
+🔹I’m experienced with DevOps tools like Jenkins, Docker, and Maven, and I’m a big advocate for automating the build, test, and deployment processes.
+🔹I enjoy diving into Java applications to identify bottlenecks and optimize performance. Whether it’s through profiling or refining algorithms, I always aim to improve the efficiency and responsiveness of my code.
+🔹I’m passionate about solving complex problems and tackling technical challenges. Whether working independently or as part of a team, I strive to find creative and effective solutions that meet business needs.
+🔹I believe that strong collaboration and clear communication are key to success in software development. I enjoy working in teams and collaborating with product managers, designers, and QA engineers to bring ideas to life and deliver impactful solutions.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://bi.linkedin.com/in/alain-v%C3%A9ron-manirambona-6361271a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alain véron manirambona" height="30" width="40" /></a>
